@@ -1,5 +1,5 @@
 resource_group_name = "aks_tf_devops"
-location            = "westus2"
+location            = "eastus"
 cluster_name        = "devops-bp-aks"
 kubernetes_version  = "1.22.6"
 system_node_count   = 2
